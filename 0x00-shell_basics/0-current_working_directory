@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "i don't know"
+pwd 
