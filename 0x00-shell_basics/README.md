@@ -1,1 +1,2 @@
-script that prints the absolute path name of the current working directory
+switches the current user to the user betty
+
